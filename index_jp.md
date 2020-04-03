@@ -1,4 +1,3 @@
-### Junya Yanagisawa
 ---
 layout: default
 ---
