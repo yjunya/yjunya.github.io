@@ -1,124 +1,60 @@
-### Junya Yanagisawa
 ---
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+<br>
 
-[Link to another page](./another-page.html).
+## プロフィール
 
-There should be whitespace between paragraphs.
+-----
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+### 名前
 
-# Header 1
+&nbsp; &nbsp; &nbsp; &nbsp;
+柳澤 隼也 (Junya Yanagisawa)
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+### Affiliation
 
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+- [筑波大学 大学院理工情報生命学術院 システム情報工学研究群 情報理工学位プログラム](https://www.cs.tsukuba.ac.jp/index.html)．
+	- 博士前期課程 1年.
 
 
-### Definition lists can be used with HTML syntax.
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+- [北川・天笠データ工学研究室 (KDE)](http://kde.cs.tsukuba.ac.jp/index.html).
+	- 指導教員 : 塩川 浩昭 准教授．
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+### 連絡先
 
-```
-The final element.
-```
+&nbsp; &nbsp; &nbsp; &nbsp;
+y.junya [at] kde.cs.tsukuba.ac.jp
+
+
+<br>
+
+## 研究分野
+
+-----
+
+- グラフデータ分析
+	- 不確実グラフ (Uncertain Graph)
+
+<br>
+
+## 研究業績
+
+-----
+
+### 国内会議・研究会等（Domestic conferences/others）
+1. <u>柳澤 隼也</u>, 塩川 浩昭,
+	"層化抽出法を用いた1対全ノードに対するs-t信頼性推定の高速化",
+	情報処理学会 第82回全国大会,
+	March 2020. <span style="color:red;">(学生奨励賞)</span>
+
+1. <u>柳澤 隼也</u>, 塩川 浩昭,
+	"1対全ノードに対するs-t信頼性の高速推定",
+	第12回データ工学と情報マネジメントに関するフォーラム (DEIM2020),
+	March 2020. [[paper](http://kde.cs.tsukuba.ac.jp/~shion/pdf/2020/d2_2.pdf)]
+
+
+
+-----
