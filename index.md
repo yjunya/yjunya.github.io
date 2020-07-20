@@ -44,7 +44,13 @@ y.junya [at] kde.cs.tsukuba.ac.jp
 
 -----
 
-### 国内会議・研究会等（Domestic conferences/others）
+### 国際会議論文
+1. <u>Junya Yanagisawa</u>, Hiroaki Shiokawa,
+	"Fast One-to-Many Reliability Estimation for Uncertain Graphs ,"
+	In Proceedings of the 31st International Conference on Database and Expert Systems Applications (DEXA2020),
+	Bratislava, Slovakia, September 2020. (Full paper) (Acceptance ratio 20%) (To appear)
+
+### 国内会議発表
 1. <u>柳澤 隼也</u>, 塩川 浩昭,
 	"層化抽出法を用いた1対全ノードに対するs-t信頼性推定の高速化",
 	情報処理学会 第82回全国大会,

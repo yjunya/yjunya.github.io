@@ -44,7 +44,13 @@ y.junya [at] kde.cs.tsukuba.ac.jp
 
 <br>
 
-<!-- ## Publications -->
+## Publications
 
 -----
+
+### International Conference
+1. <u>Junya Yanagisawa</u>, Hiroaki Shiokawa,
+	"Fast One-to-Many Reliability Estimation for Uncertain Graphs ,"
+	In Proceedings of the 31st International Conference on Database and Expert Systems Applications (DEXA2020),
+	Bratislava, Slovakia, September 2020. (Full paper) (Acceptance ratio 20%) (To appear)
 
