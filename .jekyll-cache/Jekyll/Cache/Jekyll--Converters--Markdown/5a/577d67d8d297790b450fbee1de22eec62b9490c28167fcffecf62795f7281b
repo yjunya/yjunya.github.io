@@ -1,0 +1,65 @@
+I"�<p><br /></p>
+
+<h2 id="profile">Profile</h2>
+
+<hr />
+
+<h3 id="name">Name</h3>
+
+<p>       
+Junya Yanagisawa</p>
+
+<h3 id="affiliation">Affiliation</h3>
+
+<!-- - Master 1st at [University of Tsukuba](http://www.tsukuba.ac.jp/english/) / -->
+<!-- [Graduate School of Science and Technology Degree Programs in Systems and Information Engineering](https://www3.sie.tsukuba.ac.jp/eng/) / -->
+<!-- [Master’s Program in Computer Science](https://www.cs.tsukuba.ac.jp/english/index.html). -->
+<ul>
+  <li><a href="https://www.cs.tsukuba.ac.jp/english/index.html">University of Tsukuba
+Graduate School of Science and Technology Degree Programs in Systems and Information Engineering
+Master’s Program in Computer Science</a>.
+    <ul>
+      <li>Master 1st.</li>
+    </ul>
+  </li>
+  <li><a href="http://kde.cs.tsukuba.ac.jp/index_en.html">Kitagawa &amp; Amagasa Data Engineering Lab. (KDE)</a>.
+    <ul>
+      <li>Supervisor : Shiokawa Hiroaki Associate Professor.</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="contact">Contact</h3>
+
+<p>       
+y.junya [at] kde.cs.tsukuba.ac.jp</p>
+
+<p><br /></p>
+
+<h2 id="research-interest">Research Interest</h2>
+
+<hr />
+
+<ul>
+  <li>Graph Analysis
+    <ul>
+      <li>Uncertain Graph</li>
+    </ul>
+  </li>
+</ul>
+
+<p><br /></p>
+
+<h2 id="publications">Publications</h2>
+
+<hr />
+
+<h3 id="international-conference">International Conference</h3>
+<ol>
+  <li><u>Junya Yanagisawa</u>, Hiroaki Shiokawa,
+ “Fast One-to-Many Reliability Estimation for Uncertain Graphs ,”
+ In Proceedings of the 31st International Conference on Database and Expert Systems Applications (DEXA2020),
+ Bratislava, Slovakia, September 2020. (Full paper) (Acceptance ratio 20%) [<a href="https://link.springer.com/chapter/10.1007/978-3-030-59003-1_7">paper</a>]</li>
+</ol>
+
+:ET

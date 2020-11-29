@@ -1,0 +1,77 @@
+I"!<p><br /></p>
+
+<h2 id="プロフィール">プロフィール</h2>
+
+<hr />
+
+<h3 id="名前">名前</h3>
+
+<p>       
+柳澤 隼也 (Junya Yanagisawa)</p>
+
+<h3 id="affiliation">Affiliation</h3>
+
+<ul>
+  <li><a href="https://www.cs.tsukuba.ac.jp/index.html">筑波大学 大学院理工情報生命学術院 システム情報工学研究群 情報理工学位プログラム</a>．
+    <ul>
+      <li>博士前期課程 1年.</li>
+    </ul>
+  </li>
+  <li><a href="http://kde.cs.tsukuba.ac.jp/index.html">北川・天笠データ工学研究室 (KDE)</a>.
+    <ul>
+      <li>指導教員 : 塩川 浩昭 准教授．</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="連絡先">連絡先</h3>
+
+<p>       
+y.junya [at] kde.cs.tsukuba.ac.jp</p>
+
+<p><br /></p>
+
+<h2 id="研究分野">研究分野</h2>
+
+<hr />
+
+<ul>
+  <li>グラフデータ分析
+    <ul>
+      <li>不確実グラフ (Uncertain Graph)</li>
+    </ul>
+  </li>
+</ul>
+
+<p><br /></p>
+
+<h2 id="研究業績">研究業績</h2>
+
+<hr />
+
+<h3 id="国際会議論文">国際会議論文</h3>
+<ol>
+  <li><u>Junya Yanagisawa</u>, Hiroaki Shiokawa,
+ “Fast One-to-Many Reliability Estimation for Uncertain Graphs ,”
+ In Proceedings of the 31st International Conference on Database and Expert Systems Applications (DEXA2020),
+ Bratislava, Slovakia, September 2020. (Full paper) (Acceptance ratio 20%) [<a href="https://link.springer.com/chapter/10.1007/978-3-030-59003-1_7">paper</a>]</li>
+</ol>
+
+<h3 id="国内会議発表">国内会議発表</h3>
+<ol>
+  <li>
+    <p><u>柳澤 隼也</u>, 塩川 浩昭,
+ “層化抽出法を用いた1対全ノードに対するs-t信頼性推定の高速化”,
+ 情報処理学会 第82回全国大会,
+ March 2020. <span style="color:red;">(学生奨励賞)</span></p>
+  </li>
+  <li>
+    <p><u>柳澤 隼也</u>, 塩川 浩昭,
+ “1対全ノードに対するs-t信頼性の高速推定”,
+ 第12回データ工学と情報マネジメントに関するフォーラム (DEIM2020),
+ March 2020. [<a href="http://kde.cs.tsukuba.ac.jp/~shion/pdf/2020/d2_2.pdf">paper</a>]</p>
+  </li>
+</ol>
+
+<hr />
+:ET
