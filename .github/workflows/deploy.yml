@@ -11,11 +11,11 @@ jobs:
     steps:
       # hub コマンドをインストールする
       - name: install hub
-        uses: geertvdc/setup-hub@v1.0.0
+        uses: geertvdc/setup-hub@master
 
       # dev ブランチをチェックアウトする
       - name: checkout develop
-        uses: actions/checkout@v2
+        uses: actions/checkout@v1
         with:
           ref: develop
 
