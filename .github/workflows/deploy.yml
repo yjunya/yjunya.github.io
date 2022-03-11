@@ -2,17 +2,13 @@ name: deploy
 
 on:
   push:
-    branches: [ develop ]
+    branches: [develop]
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      # hub コマンドをインストールする
-      - name: install hub
-        uses: geertvdc/setup-hub@master
-
       # dev ブランチをチェックアウトする
       - name: checkout develop
         uses: actions/checkout@v1
@@ -22,7 +18,7 @@ jobs:
       # プルリクを作成する
       - name: Create Pull Request
         env:
-          TZ: 'Asia/Tokyo'
+          TZ: "Asia/Tokyo"
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           DATE=`date +"%Y%m%d_%H:%M:%S"`
