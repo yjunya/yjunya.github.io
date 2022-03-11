@@ -9,10 +9,6 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # hub コマンドをインストールする
-      - name: install hub
-        uses: geertvdc/setup-hub@v1.0.0
-
       # dev ブランチをチェックアウトする
       - name: checkout develop
         uses: actions/checkout@v1
